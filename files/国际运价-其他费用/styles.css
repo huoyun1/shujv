@@ -15,7 +15,7 @@
 #u0 {
   position:absolute;
   left:414px;
-  top:64px;
+  top:10px;
   width:120px;
   height:30px;
 }
@@ -36,7 +36,7 @@
 #u2 {
   position:absolute;
   left:546px;
-  top:64px;
+  top:10px;
   width:120px;
   height:30px;
 }
@@ -57,7 +57,7 @@
 #u4 {
   position:absolute;
   left:20px;
-  top:64px;
+  top:10px;
   width:120px;
   height:30px;
 }
@@ -78,7 +78,7 @@
 #u6 {
   position:absolute;
   left:152px;
-  top:64px;
+  top:10px;
   width:120px;
   height:30px;
 }
@@ -99,7 +99,7 @@
 #u8 {
   position:absolute;
   left:0px;
-  top:88px;
+  top:34px;
   width:1070px;
   height:10px;
 }
@@ -127,7 +127,7 @@
 #u9 {
   position:absolute;
   left:283px;
-  top:64px;
+  top:10px;
   width:120px;
   height:30px;
 }
@@ -148,7 +148,7 @@
 #u11 {
   position:absolute;
   left:20px;
-  top:174px;
+  top:120px;
   width:945px;
   height:335px;
 }
@@ -1859,7 +1859,7 @@
 #u166 {
   position:absolute;
   left:20px;
-  top:134px;
+  top:80px;
   width:70px;
   height:30px;
 }
@@ -1880,7 +1880,7 @@
 #u168 {
   position:absolute;
   left:120px;
-  top:108px;
+  top:54px;
   width:830px;
   height:546px;
   overflow:hidden;
@@ -2141,13 +2141,16 @@
   top:0px;
   width:510px;
   height:89px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   text-decoration:none;
   color:#000000;
   text-align:left;
+}
+#u188_input {
+  font-family:'应用字体';
 }
 #u189 {
   position:absolute;
@@ -2162,13 +2165,16 @@
   top:0px;
   width:510px;
   height:25px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   text-decoration:none;
   color:#000000;
   text-align:left;
+}
+#u189_input {
+  font-family:'应用字体';
 }
 #u190 {
   position:absolute;
@@ -2183,13 +2189,16 @@
   top:0px;
   width:510px;
   height:25px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   text-decoration:none;
   color:#000000;
   text-align:left;
+}
+#u190_input {
+  font-family:'应用字体';
 }
 #u191 {
   position:absolute;
@@ -2204,12 +2213,15 @@
   top:0px;
   width:510px;
   height:22px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   text-decoration:none;
   color:#000000;
+}
+#u191_input {
+  font-family:'应用字体';
 }
 #u191_input:disabled {
   color:grayText;
@@ -2227,12 +2239,15 @@
   top:0px;
   width:510px;
   height:22px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
   text-decoration:none;
   color:#000000;
+}
+#u192_input {
+  font-family:'应用字体';
 }
 #u192_input:disabled {
   color:grayText;
@@ -2293,7 +2308,7 @@
   top:0px;
   width:510px;
   height:25px;
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -2301,100 +2316,6 @@
   color:#000000;
   text-align:left;
 }
-#u198 {
-  position:absolute;
-  left:68px;
-  top:12px;
-  width:224px;
-  height:28px;
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:20px;
-}
-#u198_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:224px;
-  height:28px;
-}
-#u199 {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:224px;
-  white-space:nowrap;
-}
-#u200 {
-  position:absolute;
-  left:0px;
-  top:40px;
-  width:1070px;
-  height:10px;
-}
-#u200_start {
-  position:absolute;
-  left:0px;
-  top:-5px;
-  width:18px;
-  height:20px;
-}
-#u200_end {
-  position:absolute;
-  left:1053px;
-  top:-5px;
-  width:18px;
-  height:20px;
-}
-#u200_line {
-  position:absolute;
-  left:0px;
-  top:5px;
-  width:1070px;
-  height:1px;
-}
-#u201 {
-  position:absolute;
-  left:0px;
-  top:15px;
-  width:25px;
-  height:22px;
-}
-#u201_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:25px;
-  height:22px;
-}
-#u202 {
-  position:absolute;
-  left:2px;
-  top:3px;
-  width:21px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u203 {
-  position:absolute;
-  left:33px;
-  top:15px;
-  width:25px;
-  height:22px;
-}
-#u203_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:25px;
-  height:22px;
-}
-#u204 {
-  position:absolute;
-  left:2px;
-  top:3px;
-  width:21px;
-  visibility:hidden;
-  word-wrap:break-word;
+#u197_input {
+  font-family:'应用字体';
 }
